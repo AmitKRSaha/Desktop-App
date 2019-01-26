@@ -9,4 +9,4 @@ npm install -g electron-forge
 ```npm run make```
 
 ### App Looks Like Below
-![Sample Screen](https://github.com/Desktop-App/blob/master/simple-desktop-app-electronjs/images/App.png)
+![Sample Screen](https://github.com/AmitKRSaha/Desktop-App/tree/master/simple-desktop-app-electronjs/images/App.png)
